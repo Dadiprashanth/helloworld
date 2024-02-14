@@ -1,1 +1,2 @@
 this the text of the feature2
+add the new line after the stash
